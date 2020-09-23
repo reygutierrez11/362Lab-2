@@ -1,7 +1,8 @@
 body
 {
   background-color: #ffccff;
-
+  text-align: justify;
+  padding: 10px;
 }
 
 @media screen and (max-width: 992px)
@@ -9,6 +10,7 @@ body
   body
   {
     background-color: #ffcccc;
+    text-align: center;
   }
 }
 
@@ -17,5 +19,6 @@ body
   body
   {
     background-color:#ff9966;
+    text-align: center;
   }
 }
